@@ -39,8 +39,6 @@ mysqli_close($conn);
 	<h3>My new feature</h3>
 </div>
 
-
-
 <div class="name2">
 	<h1>New feature with name2 displayed</h1>
 	<h3>My new feature</h3>
