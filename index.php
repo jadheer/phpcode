@@ -61,6 +61,7 @@ mysqli_close($conn);
 	<h3>My new feature</h3>
 </div>
 
+<a href="contact.php"> Contact us</a>
 
 </body>
 </html>
