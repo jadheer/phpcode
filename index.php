@@ -44,5 +44,23 @@ mysqli_close($conn);
 	<h3>My new feature</h3>
 </div>
 
+<div class="name3">
+	<h1>New feature with name3 displayed</h1>
+	<h3>My new feature</h3>
+</div>
+
+
+<div class="name4">
+	<h1>New feature with name4 displayed</h1>
+	<h3>My new feature</h3>
+</div>
+
+
+<div class="name5">
+	<h1>New feature with name5 displayed</h1>
+	<h3>My new feature</h3>
+</div>
+
+
 </body>
 </html>
