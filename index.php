@@ -30,7 +30,7 @@ mysqli_close($conn);
 <!DOCTYPE html>
 <html>
 <head>
-	<title>new feature</title>
+	<title>First HTML/PHP Page</title>
 </head>
 <body>
 
