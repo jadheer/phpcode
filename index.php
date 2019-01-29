@@ -34,7 +34,10 @@ mysqli_close($conn);
 </head>
 <body>
 
-	<h1>My new feature</h1>
+<div>
+	<h1>New feature with name displayed</h1>
+	<h3>My new feature</h3>
+</div>
 
 </body>
 </html>
