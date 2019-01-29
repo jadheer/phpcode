@@ -24,7 +24,17 @@ if (mysqli_num_rows($result) > 0) {
     echo "0 results";
 }
 
-echo PHP_VERSION;
-
 mysqli_close($conn);
 ?>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>new feature</title>
+</head>
+<body>
+
+	<h1>My new feature</h1>
+
+</body>
+</html>
