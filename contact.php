@@ -5,7 +5,7 @@
 </head>
 <body>
 
-This is contact us page
+<h2>This is contact us page</h2>
 
 </body>
 </html>
